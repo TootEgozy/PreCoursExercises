@@ -1,3 +1,4 @@
+//Added comment for git
 var readlineSync = require('readline-sync');
  
 function sum10() {
